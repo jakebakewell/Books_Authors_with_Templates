@@ -1,0 +1,22 @@
+input{
+    width: 20rem;
+}
+
+textarea{
+    width: 35rem;
+    height: 25rem;
+}
+
+button{
+    width: 10rem;
+    margin: 3rem auto;
+}
+
+.batman{
+    width: 40rem;
+}
+
+.book-table{
+    margin-right: 6rem;
+    margin-top: 10rem;
+}
